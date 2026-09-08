@@ -16,3 +16,8 @@ synthesis.
 LlamaIndex Agent has two parts 
 1. Agent Runner: a) overall task dispatcher b) Creating a task and orchestrating runs of agent workers on top of a task c) ables to return the final answer
 2. Agent Worker: Execute the next step of a given agent. 
+
+## Agent Control
+1. Decoupling of Task Creation & Execution
+2. Enhanced Debuggability
+3. Steerability  
